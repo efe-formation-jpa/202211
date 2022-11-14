@@ -1,7 +1,7 @@
 # 202211
 
-ORM (Mapping Objet - Relationnel)
-Fonctionnement de JPA
+- ORM (Mapping Objet - Relationnel)
+- Fonctionnement de JPA
 Les différentes implémentations
 Les entités
 Le fichier "persistence.xml"
